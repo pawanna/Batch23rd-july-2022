@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Utility.java&apos; to &apos;neoStoxUtility.Utility.java&apos;&#x0D;&#x0A;- Original project: &apos;pawan&apos;&#x0D;&#x0A;- Destination element: &apos;neoStoxUtility.Utility.java&apos;&#x0D;&#x0A;- Original element: &apos;utility.Utility.java&apos;" description="Copy compilation unit" destination="/src&lt;neoStoxUtility{Utility.java" element1="/src&lt;utility{Utility.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1669795702960" units="1" version="1.0"/>
+</session>

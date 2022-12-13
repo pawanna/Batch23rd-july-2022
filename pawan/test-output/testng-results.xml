@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[A TC is running ]]>
+    </line>
+    <line>
+      <![CDATA[A TC is running ]]>
+    </line>
+    <line>
+      <![CDATA[A TC is running ]]>
+    </line>
+    <line>
+      <![CDATA[A TC is running ]]>
+    </line>
+    <line>
+      <![CDATA[A TC is running ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-15T12:22:30 IST" name="Default suite" finished-at="2022-11-15T12:22:30 IST" duration-ms="111">
+    <groups>
+    </groups>
+    <test started-at="2022-11-15T12:22:30 IST" name="Default test" finished-at="2022-11-15T12:22:30 IST" duration-ms="111">
+      <class name="testNGkeywords.Testing">
+        <test-method signature="A()[pri:0, instance:testNGkeywords.Testing@6fd83fc1]" started-at="2022-11-15T12:22:30 IST" name="A" finished-at="2022-11-15T12:22:30 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[A TC is running ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method signature="A()[pri:0, instance:testNGkeywords.Testing@6fd83fc1]" started-at="2022-11-15T12:22:30 IST" name="A" finished-at="2022-11-15T12:22:30 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[A TC is running ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method signature="A()[pri:0, instance:testNGkeywords.Testing@6fd83fc1]" started-at="2022-11-15T12:22:30 IST" name="A" finished-at="2022-11-15T12:22:30 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[A TC is running ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method signature="A()[pri:0, instance:testNGkeywords.Testing@6fd83fc1]" started-at="2022-11-15T12:22:30 IST" name="A" finished-at="2022-11-15T12:22:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[A TC is running ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method signature="A()[pri:0, instance:testNGkeywords.Testing@6fd83fc1]" started-at="2022-11-15T12:22:30 IST" name="A" finished-at="2022-11-15T12:22:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[A TC is running ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- A -->
+      </class> <!-- testNGkeywords.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
